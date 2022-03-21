@@ -8,5 +8,6 @@ Can generate qrcode from text input and detect and decode any qrcode
 * opencv
 * pillow
 ### Installing
-
+```
 pip install opencv-python, pyqrcode, pillow
+```
